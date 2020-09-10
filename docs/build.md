@@ -22,3 +22,14 @@ react-native link @ant-design/icons-react-native
 npm install --save-dev  babel-plugin-import
 ```
 
+
+
+
+
+### 热更新
+
+```sh
+yarn add react-native-update 
+react-native link react-native-update
+```
+

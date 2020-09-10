@@ -8,6 +8,8 @@ target 'reactNativeStart' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+  pod 'react-native-update', :path => '../node_modules/react-native-update'
+
   target 'reactNativeStartTests' do
     inherit! :complete
     # Pods for testing
