@@ -8,9 +8,10 @@
 
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-
+import {IconFill, IconOutline} from '@ant-design/icons-react-native';
 import {Colors} from 'react-native/Libraries/NewAppScreen';
 import Button from '@ant-design/react-native/lib/button';
+import {Icon} from '@ant-design/react-native';
 
 class App extends React.Component {
   render() {
@@ -19,6 +20,9 @@ class App extends React.Component {
         <View style={{padding: 20}}>
           <Text style={{fontSize: 20}}>566666666666</Text>
           <Button type="warning">yyiuu33</Button>
+          <Icon name="alipay" size="md" color="red" />
+          <IconFill name="account-book" />
+          <IconOutline name="account-book" />
         </View>
       </>
     );

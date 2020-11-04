@@ -16,6 +16,33 @@ react-native link @ant-design/icons-react-native
 
 
 
+安装依赖后执行
+
+```shell
+react-native link @ant-design/icons-react-native
+react-native link @react-native-community/async-storage
+```
+
+
+
+### 直接完成链接
+
+> 彻底解决 `react-native link` 链接失败的问题
+
+```shell
+npx react-native link
+# 再重新安装
+npm run android
+```
+
+
+
+### 清空缓存启动
+
+```shell
+npm start --clearCache
+```
+
 
 
 ### 按需加载
