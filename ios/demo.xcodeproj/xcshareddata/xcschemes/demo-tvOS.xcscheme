@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "reactNativeStart-tvOS.app"
-               BlueprintName = "reactNativeStart-tvOS"
-               ReferencedContainer = "container:reactNativeStart.xcodeproj">
+               BuildableName = "demo-tvOS.app"
+               BlueprintName = "demo-tvOS"
+               ReferencedContainer = "container:demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "reactNativeStart-tvOSTests.xctest"
-               BlueprintName = "reactNativeStart-tvOSTests"
-               ReferencedContainer = "container:reactNativeStart.xcodeproj">
+               BuildableName = "demo-tvOSTests.xctest"
+               BlueprintName = "demo-tvOSTests"
+               ReferencedContainer = "container:demo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "reactNativeStart-tvOS.app"
-            BlueprintName = "reactNativeStart-tvOS"
-            ReferencedContainer = "container:reactNativeStart.xcodeproj">
+            BuildableName = "demo-tvOS.app"
+            BlueprintName = "demo-tvOS"
+            ReferencedContainer = "container:demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "reactNativeStart-tvOS.app"
-            BlueprintName = "reactNativeStart-tvOS"
-            ReferencedContainer = "container:reactNativeStart.xcodeproj">
+            BuildableName = "demo-tvOS.app"
+            BlueprintName = "demo-tvOS"
+            ReferencedContainer = "container:demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
