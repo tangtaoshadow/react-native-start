@@ -4,11 +4,13 @@ react-native link @ant-design/icons-react-native
 
 
 
-### ant-design
+### `ant-design`
 
 ```sh
-yarn add @ant-design/react-native
-yarn add @ant-design/icons-react-native
+# 最好使用npm 不要用yarn
+npm install @ant-design/react-native
+npm install @ant-design/icons-react-native
+# 链接字体图标
 react-native link @ant-design/icons-react-native
 ```
 

@@ -11,6 +11,8 @@
     "tao": "react-native run-android"
   },
   "dependencies": {
+    "@ant-design/icons-react-native": "^2.2.1",
+    "@ant-design/react-native": "^4.0.5",
     "react": "16.13.1",
     "react-native": "0.63.3"
   },
