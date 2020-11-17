@@ -62,3 +62,19 @@ yarn add react-native-update
 react-native link react-native-update
 ```
 
+
+### ios 安装
+
+```sh
+npm install
+npx react-native link
+cd ios 
+pod install
+cd ..
+npm run start
+npm run  ios
+
+```
+
+确保node版本为14
+
